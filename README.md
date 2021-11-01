@@ -12,3 +12,13 @@ https://discuss.streamlit.io/t/streamlit-deployment-as-an-executable-file-exe-fo
 ```
 nativefier --name '<you .exe name>' '<your streamlit sharing website url>' --platform <'windows' or 'mac' or 'linux'>
 ```
+
+## Android deployment
+
+Use gonative 
+
+https://gonative.io/share/xowwza
+
+| App preview | App deployed on Android |
+|-------------|-------------------------|
+|![](img\gonative2.png)|![](img\chess-app-android.png)|
